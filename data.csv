@@ -1,0 +1,27 @@
+,Question,Tag
+0,Hi,greeting
+1,Hey,greeting
+2,How are you,greeting
+3,Is anyone there?,greeting
+4,Hello,greeting
+5,Good day,greeting
+6,Bye,goodbye
+7,See you later,goodbye
+8,Goodbye,goodbye
+9,Thanks,thanks
+10,Thank you,thanks
+11,That's helpful,thanks
+12,Thank's a lot!,thanks
+13,Which items do you have?,items
+14,What kinds of items are there?,items
+15,What do you sell?,items
+16,Do you take credit cards?,payments
+17,Do you accept Mastercard?,payments
+18,Can I pay with Paypal?,payments
+19,Are you cash only?,payments
+20,How long does delivery take?,delivery
+21,How long does shipping take?,delivery
+22,When do I get my delivery?,delivery
+23,Tell me a joke!,funny
+24,Tell me something funny!,funny
+25,Do you know a joke?,funny
